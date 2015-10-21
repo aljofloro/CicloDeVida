@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CicloDeVida</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Buscar</string>
+    <string name="btn_go">Saludar</string>
+    <string name="title_activity_mostrar_mensaje">MostrarMensaje</string>
+</resources>
